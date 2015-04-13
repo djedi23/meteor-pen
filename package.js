@@ -18,6 +18,7 @@ Package.onUse(function(api) {
     'pen/src/font/fontello.ttf',
     'pen/src/font/fontello.woff',
     'pen/src/pen.js',
+    'pen/src/markdown.js',
     'pen/src/pen.css'], 'client');
 });
 
